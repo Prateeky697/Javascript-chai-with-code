@@ -2,3 +2,5 @@
 console.log("hello Prateek")
 let Name="Prateek"
 console.log(`this is my name${Name}`) // String interpritation
+const name2=naw String("Alok yadav")
+console.log(name)
